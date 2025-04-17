@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-size: 32px;
+}
+
+.Box_one{
+    background-color: lightcoral;
+    box-sizing: border-box;
+    width: 500px;
+    height: 250px;
+    padding: 50px;
+    border: 30px solid black;
+    margin: 50px;
+    text-align: center;
+}
+
+.Box_two{
+    background-color: lightblue;
+    box-sizing: content-box;
+    width: 500px;
+    height: 250px;
+    padding:50px;
+    border: 30px solid black;
+    margin: 50px;
+    text-align: center;
+}
